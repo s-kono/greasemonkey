@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         slackStyling4Dark
 // @namespace    https://github.com/s-kono
-// @version      0.20190927.1
+// @version      0.20190927.2
 // @description  slack styling for Dark
-// @updateURL    https://raw.githubusercontent.com/s-kono/Greasemonkey/master//slackStyling4Dark.user.js
-// @downloadURL  https://raw.githubusercontent.com/s-kono/Greasemonkey/master//slackStyling4Dark.user.js
+// @updateURL    https://raw.githubusercontent.com/s-kono/Greasemonkey/master/slackStyling4Dark.user.js
+// @downloadURL  https://raw.githubusercontent.com/s-kono/Greasemonkey/master/slackStyling4Dark.user.js
 // @match        https://app.slack.com/client/*
 // @grant        none
-// @run-at       document-start
+// @run-at       document-end
 // ==/UserScript==
 
 (function() {
